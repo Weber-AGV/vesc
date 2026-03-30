@@ -1,1 +1,7 @@
 *.swp
+
+# Claude Code
+.claude/
+
+# VS Code
+.vscode/
